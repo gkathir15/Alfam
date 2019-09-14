@@ -1,0 +1,6 @@
+.DS_Store
+cezerin2/node_modules
+cezerin2-admin/node_modules
+cezerin2-store/node_modules
+*.zip
+.vscode
